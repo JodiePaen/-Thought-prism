@@ -1,0 +1,4 @@
+interface:
+  display_name: "想法棱镜"
+  short_description: "把碎片想法折射成有叮咚时刻与跨学科新视角的双栏手账简报"
+  default_prompt: "使用 $thought-prism 从这段文字转出几个棱镜视角，加入经核实的书页闪光与原创‘叮咚一下’，用生动中文分析并导出双栏手账图片。"
