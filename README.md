@@ -121,7 +121,7 @@
 把这句话发给支持 Skills 的 agent：
 
 ```text
-帮我安装这个 skill：https://github.com/<你的 GitHub 用户名>/thought-prism
+帮我安装这个 skill：https://github.com/JodiePaen/-Thought-prism
 ```
 
 ### 方式二：使用 Skills CLI
